@@ -28,6 +28,10 @@ venv/
 .specify/scripts/
 .specify/templates/
 
+# Claude Code (may contain credentials)
+# Uncomment if you want to exclude Claude settings
+# .claude/
+
 # 临时文件
 *.log
 *.tmp
