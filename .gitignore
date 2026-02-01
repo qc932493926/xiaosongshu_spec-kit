@@ -1,0 +1,40 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+*.tgz
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Spec-Kit
+.specify/scripts/
+.specify/templates/
+
+# 临时文件
+*.log
+*.tmp
+.cache/
+dist/
+build/
+
+# 环境变量
+.env
+.env.local
